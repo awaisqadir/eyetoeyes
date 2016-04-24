@@ -340,7 +340,7 @@ if (!$fbuser) {
       <td width="489"><img src="images/help.PNG" width="482" height="115" alt="How to Play" longdesc="How to Play" /></td>
       <td width="295"> <blockquote>
         <blockquote>
-          <p><strong>How to Play</strong></p>
+          <p><strong>How to Play?</strong></p>
         </blockquote>
       </blockquote>
       <p>Pictures of your friends are hidden in the Eyes. Click on  the Eyes and find out the second pair. Remember the location and open pair to successfully  score points. Don’t forget to share it with Friends.</p></td>
